@@ -1,2 +1,5 @@
 # PDP
-Large-scale parallel data processing feat. Spark and Scala
+CS4240 
+
+Large-Scale Parallel Data Processing
+feat. Spark, Scala, and sbt
